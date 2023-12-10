@@ -115,7 +115,7 @@
         .row.justify-content-center.mb-4
           .col-3
             figure
-              img(src='@/assets/curso/temas/tema1/7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/7.svg', alt='Imagen decorativa')
           
         h2.text-center(style="color: #12263F")  Riesgo inherente
         p(style="color: #12263F")  Este tipo de riesgo, es aquel que se identifica sobre un activo de información y sobre el cual, no se ha realizado ninguna acción ni aplicado control alguno.
@@ -123,7 +123,7 @@
         .row.justify-content-center.mb-4
           .col-3
             figure
-              img(src='@/assets/curso/temas/tema1/8.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/8.svg', alt='Imagen decorativa')
           
         h2.text-center(style="color: #12263F")  Riesgo residual
         p(style="color: #12263F")  Este tipo de riesgo, corresponde al riesgo que prevalece después de haber aplicado acciones o controles para la mitigación del riesgo.
@@ -166,7 +166,7 @@
 
     .tarjeta.tarjeta--gris.p-4.mb-5(style="background-color: #E1F5D6")
       LineaTiempoC.color-acento-botones(text-small)
-        .row(titulo="1")
+        .row.col-ipad(titulo="1")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Estar integrada en los procesos de una organización
             p No debe ser entendida como una actividad aislada, sino como parte de las actividades y procesos principales de una organización.
@@ -174,7 +174,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/10.jpg', alt='Imagen decorativa')
-        .row(titulo="2")
+        .row.col-ipad(titulo="2")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Crear y proteger el valor
             p Contribuye a la consecución de objetivos, así como la mejora de ciertos aspectos tales como la seguridad y salud laboral, cumplimiento de los requisitos legales, protección ambiental, etc.
@@ -182,7 +182,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/11.jpg', alt='Imagen decorativa')
-        .row(titulo="3")
+        .row.col-ipad(titulo="3")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Formar parte de la toma de decisiones
             p La gestión del riesgo ayuda a la toma de decisiones evaluando la información sobre las distintas alternativas.
@@ -190,7 +190,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/12.jpg', alt='Imagen decorativa')
-        .row(titulo="4")
+        .row.col-ipad(titulo="4")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Tratar explícitamente la incertidumbre
             p La gestión del riesgo trata aquellos aspectos de la toma de decisiones que son inciertos, la naturaleza de esa incertidumbre y como puede tratarse.
@@ -198,7 +198,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/13.jpg', alt='Imagen decorativa')
-        .row(titulo="5")
+        .row.col-ipad(titulo="5")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Ser sistemática, estructurada y adecuada
             p Contribuye a la eficiencia y, consecuentemente, a la obtención de resultados fiables.
@@ -206,7 +206,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/14.jpg', alt='Imagen decorativa')
-        .row(titulo="6")
+        .row.col-ipad(titulo="6")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Basarse en la mejor información disponible
             p Los inputs del proceso de gestión del riesgo están basados en fuentes de información como la propia experiencia, la observación y la opinión de expertos.
@@ -214,7 +214,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/15.jpg', alt='Imagen decorativa')
-        .row(titulo="7")
+        .row.col-ipad(titulo="7")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Estar hecha a medida
             p La gestión del riesgo está alineada con el contexto externo e interno de la organización, y con su perfil de riesgo.
@@ -222,7 +222,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/16.jpg', alt='Imagen decorativa')
-        .row(titulo="8")
+        .row.col-ipad(titulo="8")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Tener en cuenta factores humanos y culturales
             p Reconoce la capacidad y percepción de los empleados y personas interesadas, esto puede facilitar o dificultar la consecución de los objetivos de la organización.
@@ -230,7 +230,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/17.jpg', alt='Imagen decorativa')
-        .row(titulo="9")
+        .row.col-ipad(titulo="9")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Ser transparente e inclusiva
             p La apropiada y oportuna participación de los grupos de interés (stakeholders) y, en particular, de los responsables a todos los niveles, asegura que la gestión del riesgo permanece relevante y actualizada.
@@ -238,7 +238,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/18.jpg', alt='Imagen decorativa')
-        .row(titulo="10")
+        .row.col-ipad(titulo="10")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Ser dinámica, iterativa y sensible al cambio
             p La organización debe velar para que la gestión del riesgo detecte y responda a los cambios de la empresa y de su entorno.
@@ -246,7 +246,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/19.jpg', alt='Imagen decorativa')
-        .row(titulo="11")
+        .row.col-ipad(titulo="11")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [AD] AdministFacilitar la mejora continua de la organizaciónración
             p Las organizaciones deberían desarrollar e implementar estrategias para mejorar continuamente, tanto en la gestión del riesgo como en cualquier otro aspecto de la organización.
