@@ -4,20 +4,24 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Metodologías para la gestión del riesgo
+        span 4
+      h1 Plan de tratamiento del riesgo
+    
     separador 
     .titulo-segundo.color-acento-contenido
-      h2#t_2_1 2.1 Herramientas de apoyo para la gestión del riesgo
+      h2#t_4_1 4.1 Reconocimiento del impacto del riesgo
     separador 
     .titulo-segundo.color-acento-contenido
-      h2#t_2_2 2.2 Métricas e indicadores
+      h2#t_4_2 4.2 Establecimiento de controles
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_4_3 4.3 Estrategia de implementación de controles
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema3',
   data: () => ({
     // variables de vue
   }),
