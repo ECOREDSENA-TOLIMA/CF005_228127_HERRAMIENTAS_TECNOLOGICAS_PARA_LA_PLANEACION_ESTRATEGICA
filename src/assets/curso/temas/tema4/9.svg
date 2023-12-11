@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="505" height="714.676" viewBox="0 0 505 714.676">
+  <g id="Group_1073116" data-name="Group 1073116" transform="translate(8521.793 -1815)">
+    <g id="Group_1072404" data-name="Group 1072404" transform="translate(124.207 131)">
+      <rect id="Rectangle_377422" data-name="Rectangle 377422" width="505" height="714.676" transform="translate(-8646 1684)" fill="#fff"/>
+      <g id="Group_1072101" data-name="Group 1072101" transform="translate(0 -283)">
+        <text id="Tipos_de_activos_Dimensión_Amenaza_Nivel_de_riesgo_" data-name="Tipos de activos
+Dimensión
+Amenaza
+Nivel de riesgo
+" transform="translate(-8581.277 2547.223)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Tipos de activos</tspan><tspan x="0" y="39">Dimensión</tspan><tspan x="0" y="63">Amenaza</tspan><tspan x="0" y="87">Nivel de riesgo</tspan></text>
+        <text id="Están_expuestos_a_" data-name="Están expuestos a
+" transform="translate(-8553 2007)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="12.898" y="15">Están expuestos a</tspan></text>
+        <text id="Interesan_por_su_" data-name="Interesan por su
+" transform="translate(-8387 2075)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="10.086" y="15">Interesan por su</tspan></text>
+        <g id="Group_1071778" data-name="Group 1071778" transform="translate(-8325 2128.406)">
+          <ellipse id="Ellipse_5860" data-name="Ellipse 5860" cx="80" cy="34.5" rx="80" ry="34.5" transform="translate(0 -0.406)" fill="#304c8e"/>
+          <text id="Valor" transform="translate(43 22.594)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="18.098" y="15">Valor</tspan></text>
+        </g>
+        <g id="Group_1072092" data-name="Group 1072092" transform="translate(13 -14.511)">
+          <g id="Group_1072091" data-name="Group 1072091" transform="translate(-8598.277 2551.223) rotate(-90)">
+            <path id="Path_610813" data-name="Path 610813" d="M0,1.066s19.928-5.194,20.444,7.35-.316,53.049,2.627,55.646,17.262,4.421,17.262,4.421" transform="translate(0.001 -6.872)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+            <path id="Path_610814" data-name="Path 610814" d="M0,61.759s20.115,4.758,20.636-6.733-.319-48.6,2.652-50.976S40.712,0,40.712,0" transform="translate(0 61.61)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_1072088" data-name="Group 1072088" transform="translate(-8325 2007)">
+          <g id="Group_1071774" data-name="Group 1071774" transform="translate(0 8)">
+            <g id="Group_1071639" data-name="Group 1071639">
+              <rect id="Rectangle_347551" data-name="Rectangle 347551" width="160" height="53" rx="18" fill="#304c8e"/>
+              <text id="Activos_" data-name="Activos
+" transform="translate(43 17)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="10" y="15">Activos</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1071994" data-name="Group 1071994" transform="translate(13)">
+            <circle id="Ellipse_4752" data-name="Ellipse 4752" cx="2" cy="2" r="2" transform="translate(8)" fill="#60cb28"/>
+            <circle id="Ellipse_5868" data-name="Ellipse 5868" cx="2" cy="2" r="2" fill="#60cb28"/>
+            <circle id="Ellipse_4757" data-name="Ellipse 4757" cx="2" cy="2" r="2" transform="translate(8 7)" fill="#60cb28"/>
+            <circle id="Ellipse_5867" data-name="Ellipse 5867" cx="2" cy="2" r="2" transform="translate(0 7)" fill="#60cb28"/>
+            <circle id="Ellipse_4760" data-name="Ellipse 4760" cx="2" cy="2" r="2" transform="translate(8 14)" fill="#60cb28"/>
+            <circle id="Ellipse_5866" data-name="Ellipse 5866" cx="2" cy="2" r="2" transform="translate(0 14)" fill="#60cb28"/>
+            <circle id="Ellipse_4753" data-name="Ellipse 4753" cx="2" cy="2" r="2" transform="translate(17)" fill="#60cb28"/>
+            <circle id="Ellipse_4756" data-name="Ellipse 4756" cx="2" cy="2" r="2" transform="translate(17 7)" fill="#60cb28"/>
+            <circle id="Ellipse_4759" data-name="Ellipse 4759" cx="2" cy="2" r="2" transform="translate(17 14)" fill="#60cb28"/>
+            <circle id="Ellipse_4754" data-name="Ellipse 4754" cx="2" cy="2" r="2" transform="translate(25)" fill="#60cb28"/>
+            <circle id="Ellipse_4755" data-name="Ellipse 4755" cx="2" cy="2" r="2" transform="translate(25 7)" fill="#60cb28"/>
+            <circle id="Ellipse_4758" data-name="Ellipse 4758" cx="2" cy="2" r="2" transform="translate(25 14)" fill="#60cb28"/>
+          </g>
+        </g>
+        <g id="Group_1072089" data-name="Group 1072089" transform="translate(-8616 2053)">
+          <g id="Group_1071643" data-name="Group 1071643" transform="translate(0 7)">
+            <g id="Group_1071639-2" data-name="Group 1071639">
+              <rect id="Rectangle_347551-2" data-name="Rectangle 347551" width="190" height="53" rx="18" transform="translate(0 0)" fill="#304c8e"/>
+              <text id="Amenazas_" data-name="Amenazas
+" transform="translate(43 17)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="14.313" y="15">Amenazas</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1071995" data-name="Group 1071995" transform="translate(14)">
+            <circle id="Ellipse_4752-2" data-name="Ellipse 4752" cx="2" cy="2" r="2" transform="translate(8 0)" fill="#60cb28"/>
+            <circle id="Ellipse_5868-2" data-name="Ellipse 5868" cx="2" cy="2" r="2" transform="translate(0 0)" fill="#60cb28"/>
+            <circle id="Ellipse_4757-2" data-name="Ellipse 4757" cx="2" cy="2" r="2" transform="translate(8 7)" fill="#60cb28"/>
+            <circle id="Ellipse_5867-2" data-name="Ellipse 5867" cx="2" cy="2" r="2" transform="translate(0 7)" fill="#60cb28"/>
+            <circle id="Ellipse_4760-2" data-name="Ellipse 4760" cx="2" cy="2" r="2" transform="translate(8 14)" fill="#60cb28"/>
+            <circle id="Ellipse_5866-2" data-name="Ellipse 5866" cx="2" cy="2" r="2" transform="translate(0 14)" fill="#60cb28"/>
+            <circle id="Ellipse_4753-2" data-name="Ellipse 4753" cx="2" cy="2" r="2" transform="translate(17 0)" fill="#60cb28"/>
+            <circle id="Ellipse_4756-2" data-name="Ellipse 4756" cx="2" cy="2" r="2" transform="translate(17 7)" fill="#60cb28"/>
+            <circle id="Ellipse_4759-2" data-name="Ellipse 4759" cx="2" cy="2" r="2" transform="translate(17 14)" fill="#60cb28"/>
+            <circle id="Ellipse_4754-2" data-name="Ellipse 4754" cx="2" cy="2" r="2" transform="translate(25 0)" fill="#60cb28"/>
+            <circle id="Ellipse_4755-2" data-name="Ellipse 4755" cx="2" cy="2" r="2" transform="translate(25 7)" fill="#60cb28"/>
+            <circle id="Ellipse_4758-2" data-name="Ellipse 4758" cx="2" cy="2" r="2" transform="translate(25 14)" fill="#60cb28"/>
+          </g>
+        </g>
+        <g id="Group_1072085" data-name="Group 1072085" transform="translate(-8535.403 2151)">
+          <g id="Group_1071775" data-name="Group 1071775" transform="translate(0)">
+            <ellipse id="Ellipse_5860-2" data-name="Ellipse 5860" cx="94.5" cy="43.5" rx="94.5" ry="43.5" transform="translate(0.403)" fill="#e1f5d6"/>
+            <text id="Degradación_residual_" data-name="Degradación
+residual
+" transform="translate(43.403 21)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="6.227" y="15">Degradación</tspan><tspan x="22.703" y="39">residual</tspan></text>
+          </g>
+          <g id="Group_1071996" data-name="Group 1071996" transform="translate(150.403 56)" opacity="0.5">
+            <circle id="Ellipse_4752-3" data-name="Ellipse 4752" cx="2" cy="2" r="2" transform="translate(8 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_5868-3" data-name="Ellipse 5868" cx="2" cy="2" r="2" transform="translate(0 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_4757-3" data-name="Ellipse 4757" cx="2" cy="2" r="2" transform="translate(8 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_5867-3" data-name="Ellipse 5867" cx="2" cy="2" r="2" transform="translate(0 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_4760-3" data-name="Ellipse 4760" cx="2" cy="2" r="2" transform="translate(8 14)" fill="#7e19b8"/>
+            <circle id="Ellipse_5866-3" data-name="Ellipse 5866" cx="2" cy="2" r="2" transform="translate(0 14)" fill="#7e19b8"/>
+            <circle id="Ellipse_4753-3" data-name="Ellipse 4753" cx="2" cy="2" r="2" transform="translate(17 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_4756-3" data-name="Ellipse 4756" cx="2" cy="2" r="2" transform="translate(17 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_4759-3" data-name="Ellipse 4759" cx="2" cy="2" r="2" transform="translate(17 14)" fill="#7e19b8"/>
+            <circle id="Ellipse_4754-3" data-name="Ellipse 4754" cx="2" cy="2" r="2" transform="translate(25 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_4755-3" data-name="Ellipse 4755" cx="2" cy="2" r="2" transform="translate(25 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_4758-3" data-name="Ellipse 4758" cx="2" cy="2" r="2" transform="translate(25 14)" fill="#7e19b8"/>
+          </g>
+        </g>
+        <g id="Group_1072084" data-name="Group 1072084" transform="translate(-8535.403 2309)">
+          <g id="Group_1071776" data-name="Group 1071776" transform="translate(0)">
+            <ellipse id="Ellipse_5860-3" data-name="Ellipse 5860" cx="94.5" cy="43.5" rx="94.5" ry="43.5" transform="translate(0.403)" fill="#e1f5d6"/>
+            <text id="Probabilidad_residual_" data-name="Probabilidad
+residual
+" transform="translate(43.403 21)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="6.074" y="15">Probabilidad</tspan><tspan x="22.703" y="39">residual</tspan></text>
+          </g>
+          <g id="Group_1071997" data-name="Group 1071997" transform="translate(150.403 60)" opacity="0.5">
+            <circle id="Ellipse_4752-4" data-name="Ellipse 4752" cx="2" cy="2" r="2" transform="translate(8 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_5868-4" data-name="Ellipse 5868" cx="2" cy="2" r="2" transform="translate(0 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_4757-4" data-name="Ellipse 4757" cx="2" cy="2" r="2" transform="translate(8 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_5867-4" data-name="Ellipse 5867" cx="2" cy="2" r="2" transform="translate(0 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_4760-4" data-name="Ellipse 4760" cx="2" cy="2" r="2" transform="translate(8 14)" fill="#7e19b8"/>
+            <circle id="Ellipse_5866-4" data-name="Ellipse 5866" cx="2" cy="2" r="2" transform="translate(0 14)" fill="#7e19b8"/>
+            <circle id="Ellipse_4753-4" data-name="Ellipse 4753" cx="2" cy="2" r="2" transform="translate(17 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_4756-4" data-name="Ellipse 4756" cx="2" cy="2" r="2" transform="translate(17 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_4759-4" data-name="Ellipse 4759" cx="2" cy="2" r="2" transform="translate(17 14)" fill="#7e19b8"/>
+            <circle id="Ellipse_4754-4" data-name="Ellipse 4754" cx="2" cy="2" r="2" transform="translate(25 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_4755-4" data-name="Ellipse 4755" cx="2" cy="2" r="2" transform="translate(25 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_4758-4" data-name="Ellipse 4758" cx="2" cy="2" r="2" transform="translate(25 14)" fill="#7e19b8"/>
+          </g>
+        </g>
+        <g id="Group_1072087" data-name="Group 1072087" transform="translate(-8325 2409.088)">
+          <g id="Group_1071779" data-name="Group 1071779" transform="translate(0)">
+            <ellipse id="Ellipse_5860-4" data-name="Ellipse 5860" cx="80" cy="43.5" rx="80" ry="43.5" transform="translate(0 -0.088)" fill="#e1f5d6"/>
+            <text id="Riesgo_residual_" data-name="Riesgo
+residual
+" transform="translate(43 20.912)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="12.246" y="15">Riesgo</tspan><tspan x="8.203" y="39">residual</tspan></text>
+          </g>
+          <g id="Group_1071998" data-name="Group 1071998" transform="translate(131 56)" opacity="0.5">
+            <circle id="Ellipse_4752-5" data-name="Ellipse 4752" cx="2" cy="2" r="2" transform="translate(8 -0.088)" fill="#7e19b8"/>
+            <circle id="Ellipse_5868-5" data-name="Ellipse 5868" cx="2" cy="2" r="2" transform="translate(0 -0.088)" fill="#7e19b8"/>
+            <circle id="Ellipse_4757-5" data-name="Ellipse 4757" cx="2" cy="2" r="2" transform="translate(8 6.912)" fill="#7e19b8"/>
+            <circle id="Ellipse_5867-5" data-name="Ellipse 5867" cx="2" cy="2" r="2" transform="translate(0 6.912)" fill="#7e19b8"/>
+            <circle id="Ellipse_4760-5" data-name="Ellipse 4760" cx="2" cy="2" r="2" transform="translate(8 13.912)" fill="#7e19b8"/>
+            <circle id="Ellipse_5866-5" data-name="Ellipse 5866" cx="2" cy="2" r="2" transform="translate(0 13.912)" fill="#7e19b8"/>
+            <circle id="Ellipse_4753-5" data-name="Ellipse 4753" cx="2" cy="2" r="2" transform="translate(17 -0.088)" fill="#7e19b8"/>
+            <circle id="Ellipse_4756-5" data-name="Ellipse 4756" cx="2" cy="2" r="2" transform="translate(17 6.912)" fill="#7e19b8"/>
+            <circle id="Ellipse_4759-5" data-name="Ellipse 4759" cx="2" cy="2" r="2" transform="translate(17 13.912)" fill="#7e19b8"/>
+            <circle id="Ellipse_4754-5" data-name="Ellipse 4754" cx="2" cy="2" r="2" transform="translate(25 -0.088)" fill="#7e19b8"/>
+            <circle id="Ellipse_4755-5" data-name="Ellipse 4755" cx="2" cy="2" r="2" transform="translate(25 6.912)" fill="#7e19b8"/>
+            <circle id="Ellipse_4758-5" data-name="Ellipse 4758" cx="2" cy="2" r="2" transform="translate(25 13.912)" fill="#7e19b8"/>
+          </g>
+        </g>
+        <g id="Group_1072090" data-name="Group 1072090" transform="translate(-8605.512 2444)">
+          <g id="Group_1071648" data-name="Group 1071648" transform="translate(-0.488)">
+            <g id="Group_1071641" data-name="Group 1071641">
+              <rect id="Rectangle_347551-3" data-name="Rectangle 347551" width="166" height="43" rx="18" fill="#e1f5d6"/>
+              <text id="Salvaguardas_" data-name="Salvaguardas
+" transform="translate(19 12)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="15.313" y="15">Salvaguardas</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1072000" data-name="Group 1072000" transform="translate(136.819 28)" opacity="0.5">
+            <circle id="Ellipse_4752-6" data-name="Ellipse 4752" cx="2" cy="2" r="2" transform="translate(7.692 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_5868-6" data-name="Ellipse 5868" cx="2" cy="2" r="2" transform="translate(-0.308 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_4757-6" data-name="Ellipse 4757" cx="2" cy="2" r="2" transform="translate(7.692 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_5867-6" data-name="Ellipse 5867" cx="2" cy="2" r="2" transform="translate(-0.308 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_4760-6" data-name="Ellipse 4760" cx="2" cy="2" r="2" transform="translate(7.692 14)" fill="#7e19b8"/>
+            <circle id="Ellipse_5866-6" data-name="Ellipse 5866" cx="2" cy="2" r="2" transform="translate(-0.308 14)" fill="#7e19b8"/>
+            <circle id="Ellipse_4753-6" data-name="Ellipse 4753" cx="2" cy="2" r="2" transform="translate(16.692 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_4756-6" data-name="Ellipse 4756" cx="2" cy="2" r="2" transform="translate(16.692 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_4759-6" data-name="Ellipse 4759" cx="2" cy="2" r="2" transform="translate(16.692 14)" fill="#7e19b8"/>
+            <circle id="Ellipse_4754-6" data-name="Ellipse 4754" cx="2" cy="2" r="2" transform="translate(24.692 0)" fill="#7e19b8"/>
+            <circle id="Ellipse_4755-6" data-name="Ellipse 4755" cx="2" cy="2" r="2" transform="translate(24.692 7)" fill="#7e19b8"/>
+            <circle id="Ellipse_4758-6" data-name="Ellipse 4758" cx="2" cy="2" r="2" transform="translate(24.692 14)" fill="#7e19b8"/>
+          </g>
+        </g>
+        <g id="Group_1072086" data-name="Group 1072086" transform="translate(-8325 2257.092)">
+          <g id="Group_1071777" data-name="Group 1071777" transform="translate(0)">
+            <ellipse id="Ellipse_5860-5" data-name="Ellipse 5860" cx="80" cy="43.5" rx="80" ry="43.5" transform="translate(0 -0.092)" fill="#e1f5d6"/>
+            <text id="Impacto_residual_" data-name="Impacto
+residual
+" transform="translate(43 20.908)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="7.668" y="15">Impacto</tspan><tspan x="8.203" y="39">residual</tspan></text>
+          </g>
+          <g id="Group_1071999" data-name="Group 1071999" transform="translate(131 58)" opacity="0.5">
+            <circle id="Ellipse_4752-7" data-name="Ellipse 4752" cx="2" cy="2" r="2" transform="translate(8 -0.092)" fill="#7e19b8"/>
+            <circle id="Ellipse_5868-7" data-name="Ellipse 5868" cx="2" cy="2" r="2" transform="translate(0 -0.092)" fill="#7e19b8"/>
+            <circle id="Ellipse_4757-7" data-name="Ellipse 4757" cx="2" cy="2" r="2" transform="translate(8 6.908)" fill="#7e19b8"/>
+            <circle id="Ellipse_5867-7" data-name="Ellipse 5867" cx="2" cy="2" r="2" transform="translate(0 6.908)" fill="#7e19b8"/>
+            <circle id="Ellipse_4760-7" data-name="Ellipse 4760" cx="2" cy="2" r="2" transform="translate(8 13.908)" fill="#7e19b8"/>
+            <circle id="Ellipse_5866-7" data-name="Ellipse 5866" cx="2" cy="2" r="2" transform="translate(0 13.908)" fill="#7e19b8"/>
+            <circle id="Ellipse_4753-7" data-name="Ellipse 4753" cx="2" cy="2" r="2" transform="translate(17 -0.092)" fill="#7e19b8"/>
+            <circle id="Ellipse_4756-7" data-name="Ellipse 4756" cx="2" cy="2" r="2" transform="translate(17 6.908)" fill="#7e19b8"/>
+            <circle id="Ellipse_4759-7" data-name="Ellipse 4759" cx="2" cy="2" r="2" transform="translate(17 13.908)" fill="#7e19b8"/>
+            <circle id="Ellipse_4754-7" data-name="Ellipse 4754" cx="2" cy="2" r="2" transform="translate(25 -0.092)" fill="#7e19b8"/>
+            <circle id="Ellipse_4755-7" data-name="Ellipse 4755" cx="2" cy="2" r="2" transform="translate(25 6.908)" fill="#7e19b8"/>
+            <circle id="Ellipse_4758-7" data-name="Ellipse 4758" cx="2" cy="2" r="2" transform="translate(25 13.908)" fill="#7e19b8"/>
+          </g>
+        </g>
+        <path id="Path_612126" data-name="Path 612126" d="M0,0H17.665" transform="translate(-8520.5 2037.075) rotate(90)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+        <path id="Polygon_4" data-name="Polygon 4" d="M6.5,0,13,8H0Z" transform="translate(-8514 2059) rotate(180)" fill="#7e19b8"/>
+        <g id="Group_1072093" data-name="Group 1072093" transform="translate(-7511 1899.975) rotate(90)">
+          <path id="Path_612126-2" data-name="Path 612126" d="M0,0H52.85" transform="translate(167.175 734)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+          <path id="Polygon_4-2" data-name="Polygon 4" d="M6.5,0,13,8H0Z" transform="translate(228.025 727.5) rotate(90)" fill="#7e19b8"/>
+        </g>
+        <g id="Group_1072094" data-name="Group 1072094" transform="translate(-7511 2028.975) rotate(90)">
+          <path id="Path_612126-3" data-name="Path 612126" d="M0,0H52.85" transform="translate(167.175 734)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+          <path id="Polygon_4-3" data-name="Polygon 4" d="M6.5,0,13,8H0Z" transform="translate(228.025 727.5) rotate(90)" fill="#7e19b8"/>
+        </g>
+        <g id="Group_1072095" data-name="Group 1072095" transform="translate(-7511 2176.825) rotate(90)">
+          <path id="Path_612126-4" data-name="Path 612126" d="M0,0H52.85" transform="translate(167.175 734)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+          <path id="Polygon_4-4" data-name="Polygon 4" d="M6.5,0,13,8H0Z" transform="translate(228.025 727.5) rotate(90)" fill="#7e19b8"/>
+        </g>
+        <g id="Group_1072096" data-name="Group 1072096" transform="translate(-8734.708 1460.5)">
+          <path id="Path_612126-5" data-name="Path 612126" d="M0,0H55" transform="translate(136.708 734)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+          <path id="Polygon_4-5" data-name="Polygon 4" d="M6.5,0,13,8H0Z" transform="translate(199.708 727.5) rotate(90)" fill="#7e19b8"/>
+        </g>
+        <g id="Group_1072097" data-name="Group 1072097" transform="translate(-8734.708 1618.64)">
+          <path id="Path_612126-6" data-name="Path 612126" d="M0,0H54.134" transform="translate(137.574 734)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+          <path id="Polygon_4-6" data-name="Polygon 4" d="M6.5,0,13,8H0Z" transform="translate(199.708 727.5) rotate(90)" fill="#7e19b8"/>
+        </g>
+        <g id="Group_1072098" data-name="Group 1072098" transform="translate(-9174 2437.708) rotate(-90)">
+          <path id="Path_612126-7" data-name="Path 612126" d="M0,0H28.467" transform="translate(163.241 734)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+          <path id="Polygon_4-7" data-name="Polygon 4" d="M6.5,0,13,8H0Z" transform="translate(199.708 727.5) rotate(90)" fill="#7e19b8"/>
+        </g>
+        <g id="Group_1072099" data-name="Group 1072099" transform="translate(-9174 2582.241) rotate(-90)">
+          <path id="Path_612126-8" data-name="Path 612126" d="M0,0H21.5" transform="translate(163.067 734)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+          <path id="Polygon_4-8" data-name="Polygon 4" d="M6.5,0,13,8H0Z" transform="translate(186.241 727.5) rotate(90)" fill="#7e19b8"/>
+        </g>
+        <line id="Line_927" data-name="Line 927" x1="195" transform="translate(-8520 2038)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+        <path id="Path_612127" data-name="Path 612127" d="M0,239.64V0" transform="translate(-8598 2113)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+        <path id="Path_612128" data-name="Path 612128" d="M0,170V0" transform="translate(-8553 2274)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+        <path id="Path_612129" data-name="Path 612129" d="M0,112.5V0" transform="translate(-8553 2419) rotate(-90)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+        <path id="Path_612130" data-name="Path 612130" d="M0,112.5V0" transform="translate(-8553 2274) rotate(-90)" fill="none" stroke="#7e19b8" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
