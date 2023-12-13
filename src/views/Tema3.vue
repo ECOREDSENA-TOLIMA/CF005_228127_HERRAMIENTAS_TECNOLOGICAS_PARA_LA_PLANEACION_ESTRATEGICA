@@ -7,7 +7,7 @@
         span 3
       h1 Identificación de riesgos
     
-    p(data-aos="fade-left") Para el ejercicio de identificar y reconocer los riesgos que pueden afectar a una organización, es necesario aplicar las metodologías que han sido puestas a disposición para este fin, es aquí, donde se trae como referente a  MAGERIT, la cual es una metodología para la gestión del riesgo, que está basada en la norma ISO 31000, precisamente en su apartado 4.4 denominado “Implementar la gestión del riesgo”, consolida el marco para la gestión (ICONTEC, 2018), como se observa en la siguiente figura.
+    p(data-aos="fade-left") Para el ejercicio de identificar y reconocer los riesgos que pueden afectar a una organización, es necesario aplicar las metodologías que han sido puestas a disposición para este fin, es aquí, donde se trae como referente a  #[i MAGERIT], la cual es una metodología para la gestión del riesgo, que está basada en la norma ISO 31000, precisamente en su apartado 4.4 denominado “Implementar la gestión del riesgo”, consolida el marco para la gestión (ICONTEC, 2018), como se observa en la siguiente figura.
 
     .row.justify-content-center
       .col-lg-10.col-12 
@@ -17,12 +17,12 @@
         .col-12 
           figure.desktop(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema3/1.svg' alt='Figura 1 Marco de trabajo para la gestión de riesgos de acuerdo a ISO 31000 En la figura se representa los siguientes pasos en el mismo orden: 3. Principios. 4.2 Mandato y compromiso 4.3 Diseño del marco de trabajo 4.4 Implementación de la gestión de riesgos, acá interactúa con MAGERIT 4.5 Seguimiento y revisión del marco 4.6 Mejora continua del marco, y regresa al punto 4.3')
-            figcaption Nota. Nota: adaptado de MAGERIT– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
+            figcaption Nota. Nota: adaptado de #[i MAGERIT]– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
         .row.justify-content-center
           .col-12 
             figure.movil(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema3/2.svg' alt='Figura 1 Marco de trabajo para la gestión de riesgos de acuerdo a ISO 31000 En la figura se representa los siguientes pasos en el mismo orden: 3. Principios. 4.2 Mandato y compromiso 4.3 Diseño del marco de trabajo 4.4 Implementación de la gestión de riesgos, acá interactúa con MAGERIT 4.5 Seguimiento y revisión del marco 4.6 Mejora continua del marco, y regresa al punto 4.3')
-              figcaption Nota. Nota: adaptado de MAGERIT– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
+              figcaption Nota. Nota: adaptado de #[i MAGERIT]– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
     p.mt-5(data-aos="fade-left") A continuación, se van a reconocer los principales pasos para realizar una identificación de los riesgos en la organización.
 
     separador 
@@ -202,7 +202,7 @@
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_3_3 3.3 Identificación de amenazas
-    p(data-aos="fade-left") De acuerdo a la metodología MAGERIT, y como ya se mencionó anteriormente, existen una serie de amenazas “típicas”, entre las que se encuentran:
+    p(data-aos="fade-left") De acuerdo a la metodología #[i MAGERIT], y como ya se mencionó anteriormente, existen una serie de amenazas “típicas”, entre las que se encuentran:
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10.col-12
         .row.justify-content-center
@@ -262,7 +262,7 @@
         span #[i Ejemplo de escala de degradación del valor por probabilidad de ocurrencia]
       .tabla-a.color-primario.mb-5
         table.text-center
-          caption Nota: con base en MAGERIT– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información.
+          caption Nota: con base en #[i MAGERIT]– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información.
           thead(style="background-color: #E1F5D6")
             tr
               th MA
@@ -298,7 +298,7 @@
         span #[i Escala de probabilidad de ocurrencia]
       .tabla-a.color-primario.mb-5
         table.text-center
-          caption Nota: con base en MAGERIT– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información.
+          caption Nota: con base en #[i MAGERIT–] versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información.
           thead(style="background-color: #E1F5D6")
             tr
               th MA
@@ -372,7 +372,7 @@
             p - Impacto acumulado.
             p - Probabilidad de ocurrencia de la amenaza.
             p Este riesgo se debe calcular en cada activo, amenaza y dimensión de seguridad, convirtiéndose en una función del valor acumulado, la degradación causada y la probabilidad de la amenaza.
-            p Cuando se calcula sobre los activos base de la información, permite identificar las salvaguardas necesarias para aplicar en los entornos de trabajo: endurecimiento de equipos, backup, etc.
+            p Cuando se calcula sobre los activos base de la información, permite identificar las salvaguardas necesarias para aplicar en los entornos de trabajo: endurecimiento de equipos, #[i backup], etc.
       .py-3.py-md-4(titulo="Riesgo repercutido")
         .row
           .col-md-6

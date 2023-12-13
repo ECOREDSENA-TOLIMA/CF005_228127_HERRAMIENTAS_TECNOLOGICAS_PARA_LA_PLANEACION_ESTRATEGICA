@@ -41,7 +41,7 @@
         figure
           img(src='@/assets/curso/temas/tema5/2.svg', alt='Imagen decorativa')
       .col-lg-9.col-12
-        p(data-aos="fade-left") Es fundamenta reconocer los controles existentes desde la última revisión del plan de tratamiento de riesgos, uno de los insumos primordiales es el documento de Declaración de Aplicabilidad (SOA), este brindara un punto de partida sobre los controles que se deben de evaluar.
+        p(data-aos="fade-left") Es fundamental reconocer los controles existentes desde la última revisión del plan de tratamiento de riesgos, uno de los insumos primordiales es el documento de Declaración de Aplicabilidad (SOA), este brindara un punto de partida sobre los controles que se deben de evaluar.
         p(data-aos="fade-left") Aquí cobra importancia la documentación de la gestión de incidentes, que permitirá contar con insumos para determinar si las acciones adelantadas fueron eficientes.
     separador 
     .titulo-segundo.color-acento-contenido
@@ -104,18 +104,18 @@
     .row.justify-content-center.mt-5
       .col-12 
         .titulo-sexto.color-acento-contenido
-          h5 Figura 6.
+          h5 Figura 5.
           span #[i Flujograma de la gestión de un programa de auditoría]
         .col-12 
           figure.desktop(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema5/8.svg' alt='En la figura se representan el flujo de planear, hacer, verificar y actuar. Planear tiene los puntos: 5.2 Establecer los objetivos del programa. 5.2 Determinar y evaluar los riesgos y oportunidades del programa de auditoría. 5.4 Establecer el programa de auditoría. Pasa el flujo a Hacer con el punto: 5.5 Implementar el programa de auditoría. Pasa el flujo a verificar con el punto: 5.6 Monitorear el programa de auditoría. Pasa el flujo a Actuar con el punto: 5.7 Revisar y mejorar el programa de auditoría Pasa el flujo a Planear con el punto: 6.2 Iniciar auditoría. 6.3 Preparar actividades de auditoría. Pasa el flujo a Hacer con el punto: 6.4 Realizar actividades de auditoría. 6.5 Preparar y distribuir informe de auditoría. Pasa el flujo a Verificar con el punto: 6.6 Completar la auditoría. Pasa el flujo a Actuar con el punto 6.7 Realizar auditoría de seguimiento.')
+            img(src='@/assets/curso/temas/tema5/8.svg' alt='En la figura se representan el flujo de planear, hacer, verificar y actuar. Planear tiene los puntos: 5.2 Establecer los objetivos del programa. 5.2 Establecer los objetivos de programa 5.3 Determinar y evaluar los riesgos y oportunidades del programa de auditoría 5.4 Establecer el programa de auditoría. Pasa el flujo a Hacer con el punto: 5.5 Implementar el programa de auditoría. Pasa el flujo a verificar con el punto: 5.6 Monitorear el programa de auditoría. Pasa el flujo a Actuar con el punto: 5.7 Revisar y mejorar el programa de auditoría Pasa el flujo a Planear con el punto: 6.2 Iniciar auditoría. 6.3 Preparar actividades de auditoría. Pasa el flujo a Hacer con el punto: 6.4 Realizar actividades de auditoría. 6.5 Preparar y distribuir informe de auditoría. Pasa el flujo a Verificar con el punto: 6.6 Completar la auditoría. Pasa el flujo a Actuar con el punto 6.7 Realizar auditoría de seguimiento.')
             figcaption Nota: tomado de Norma ISO 19011:2018
         .row.justify-content-center
           .col-12 
             figure.movil(data-aos="fade-right")
-              img(src='@/assets/curso/temas/tema5/9.svg' alt='En la figura se representan el flujo de planear, hacer, verificar y actuar. Planear tiene los puntos: 5.2 Establecer los objetivos del programa. 5.2 Determinar y evaluar los riesgos y oportunidades del programa de auditoría. 5.4 Establecer el programa de auditoría. Pasa el flujo a Hacer con el punto: 5.5 Implementar el programa de auditoría. Pasa el flujo a verificar con el punto: 5.6 Monitorear el programa de auditoría. Pasa el flujo a Actuar con el punto: 5.7 Revisar y mejorar el programa de auditoría Pasa el flujo a Planear con el punto: 6.2 Iniciar auditoría. 6.3 Preparar actividades de auditoría. Pasa el flujo a Hacer con el punto: 6.4 Realizar actividades de auditoría. 6.5 Preparar y distribuir informe de auditoría. Pasa el flujo a Verificar con el punto: 6.6 Completar la auditoría. Pasa el flujo a Actuar con el punto 6.7 Realizar auditoría de seguimiento.')
+              img(src='@/assets/curso/temas/tema5/9.svg' alt='En la figura se representan el flujo de planear, hacer, verificar y actuar. Planear tiene los puntos: 5.2 Establecer los objetivos del programa. 5.2 Establecer los objetivos de programa 5.3 Determinar y evaluar los riesgos y oportunidades del programa de auditoría 5.4 Establecer el programa de auditoría. Pasa el flujo a Hacer con el punto: 5.5 Implementar el programa de auditoría. Pasa el flujo a verificar con el punto: 5.6 Monitorear el programa de auditoría. Pasa el flujo a Actuar con el punto: 5.7 Revisar y mejorar el programa de auditoría Pasa el flujo a Planear con el punto: 6.2 Iniciar auditoría. 6.3 Preparar actividades de auditoría. Pasa el flujo a Hacer con el punto: 6.4 Realizar actividades de auditoría. 6.5 Preparar y distribuir informe de auditoría. Pasa el flujo a Verificar con el punto: 6.6 Completar la auditoría. Pasa el flujo a Actuar con el punto 6.7 Realizar auditoría de seguimiento.')
               figcaption Nota: tomado de Norma ISO 19011:2018
-    p.mt-5(data-aos="fade-left") Puede consultar más información sobre el desarrollo una auditoria en la norma ISO 19011.
+    p.mt-5(data-aos="fade-left") En material complementario se puede consultar más información sobre el desarrollo una auditoria en la norma ISO 19011.
 
     separador 
     .titulo-segundo.color-acento-contenido

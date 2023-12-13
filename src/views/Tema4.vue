@@ -18,7 +18,7 @@
           .bloque-texto-g__texto.p-4
             br
             br
-            p.mb-0 Es importante tener presente que los planes de tratamiento contemplan la identificación y de evaluación realizada a la organización y a sus procesos o procedimientos, y que de acuerdo a los hallazgos identificados deberá de establecerse un conjunto de acciones que unidas, permitirán hacer frente a todas las debilidades de la organización.
+            p.mb-0 Es importante tener presente que los planes de tratamiento contemplan la identificación y evaluación realizada a la organización y a sus procesos o procedimientos, y de acuerdo a los hallazgos identificados deberá establecerse un conjunto de acciones que unidas, permitirán hacer frente a todas las debilidades de la organización.
               br
               br
     separador 
@@ -47,8 +47,8 @@
           .col-md-6.mb-4.mb-md-0
             h4 Impacto repercutido
             p Es el impacto que se determina sobre un activo partir de:
-            p La importancia para la organización.
-            p Las amenazas a las que están expuestas los activos. Este se calcula para cada activo, por cada amenaza y en cada dimensión de valoración.
+            p - La importancia para la organización.
+            p - Las amenazas a las que están expuestas los activos. Este se calcula para cada activo, por cada amenaza y en cada dimensión de valoración.
 
     .row.justify-content-center.mt-5
       .col-lg-10.col-12
@@ -74,7 +74,7 @@
       li 
         .lista-ol--cuadro__vineta
           span 3
-        | No se recomienda agregar el impacto acumulado sobre activos que no sean independientes, dado que esto supondría sobreponderar el impacto al incluir varias veces el valor acumulado de activos superiores.
+        | No se recomienda agregar el impacto acumulado sobre activos que no sean independientes, dado que esto supondría sobre ponderar el impacto al incluir varias veces el valor acumulado de activos superiores.
       li 
         .lista-ol--cuadro__vineta
           span 4
@@ -183,12 +183,12 @@
         .col-12 
           figure.desktop(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema4/8.svg' alt='En la figura se representan los activos expuestos a amenazas, que causan degradación residual, con probabilidad residual, igualmente los activos con su valor tienen impacto residual y riesgo residual. Salvaguardar degradación y probabilidad.')
-            figcaption Nota: con base en MAGERIT– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
+            figcaption Nota: con base en #[i MAGERIT]– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
         .row.justify-content-center
           .col-12 
             figure.movil(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema4/9.svg' alt='En la figura se representan los activos expuestos a amenazas, que causan degradación residual, con probabilidad residual, igualmente los activos con su valor tienen impacto residual y riesgo residual. Salvaguardar degradación y probabilidad.')
-              figcaption Nota: con base en MAGERIT– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
+              figcaption Nota: con base en #[i MAGERIT]– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
 
     .h4.py-4.mb-4(data-aos="zoom-down-right")
       span.titulo-herramientas.d-none.d-sm-none.d-md-inline-flex Tipo de protección
@@ -200,6 +200,16 @@
       LineaTiempoC.color-acento-botones(text-small)
         .row.col-ipad(titulo="1")
           .col-md-6.mb-4.mb-md-0.p-4
+            h4 [PR] Prevención
+            p Salvaguardas preventivas que reducen las oportunidades de que un incidente ocurra. Si la salvaguarda falla y el incidente llega a ocurrir, los daños son los mismos.
+            p #[b Ejemplos]: autorización previa de los usuarios, gestión de privilegios, planificación de capacidades, metodología segura de desarrollo de software, pruebas en preproducción, segregación de tareas.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema4/11.jpg', alt='Imagen decorativa')
+        
+        .row.col-ipad(titulo="2")
+          .col-md-6.mb-4.mb-md-0.p-4
             h4 [DR] Disuasión
             p Salvaguarda disuasoria, tiene efecto sobre los atacantes, reduciendo la intención de que estos se atrevan a atacar un activo.
             p Ejemplos: vallas elevadas, guardias de seguridad, avisos sobre la persecución del delito o persecución del delincuente.
@@ -207,15 +217,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema4/10.jpg', alt='Imagen decorativa')
-        .row.col-ipad(titulo="2")
-          .col-md-6.mb-4.mb-md-0.p-4
-            h4 [PR] Prevención
-            p Salvaguardas preventivas que reducen las oportunidades de que un incidente ocurra. Si la salvaguarda falla y el incidente llega a ocurrir, los daños son los mismos.
-            p Ejemplos: autorización previa de los usuarios, gestión de privilegios, planificación de capacidades, metodología segura de desarrollo de software, pruebas en preproducción, segregación de tareas.
         
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema4/11.jpg', alt='Imagen decorativa')
         .row.col-ipad(titulo="3")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [EL] Eliminación
@@ -256,7 +258,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [MN] Monitorización
             p Salvaguardas enfocadas en la vigilancia y monitoreo de activos para identificar posibles cambios o alteraciones en el normal comportamiento de un activo de información.
-            p Ejemplos: registros de actividad, registro de descargas de web.
+            p Ejemplos: registros de actividad, registro de descargas de #[i web].
         
           .col-md-6
             figure
@@ -298,7 +300,7 @@
             span #[i Tipos de salvaguardas sugeridos por MAGERIT]
         .tabla-a.color-primario.mb-5
           table
-            caption Nota: con base en MAGERIT– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
+            caption Nota: con base en #[i MAGERIT]– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
             thead(style="background-color: #E1F5D6")
               tr
                 th Efecto
@@ -480,20 +482,26 @@
     p(data-aos="fade-left") Cada uno de los dominios de seguridad que nos presenta la norma ISO/IEC 27001:2013, se encuentra dividido en categorías denominadas objetivos de control. Estos objetivos como su nombre lo indica, representa aquello que se busca obtener con la aplicación de los controles de seguridad, de tal manera que, en un ejercicio de aplicación, su adopción corresponde a las necesidades y problemas que la organización quiere abordar. Se presentan como las propuestas y directrices para la implementación de una estrategia de seguridad, que puede ir desde el endurecimiento de la infraestructura, hasta la consolidación de un sistema de gestión de la seguridad SGSI, y con los cuales se busca garantizar los objetivos de seguridad de la organización.
     p(data-aos="fade-left") En este orden de ideas, la estructura de los objetivos de control se presenta en la figura 5, plasmando una idea principal de manera general, acompañada de una descripción de la utilidad del mismo.
     
+    //- .row.justify-content-center.mt-5
+    //-   .col-lg-8.col-12 
+    //-     .titulo-sexto.color-acento-contenido
+    //-       h5 Figura 5.
+    //-       span #[i Ejemplo de dominio de la norma ISO/IEC 27001:2013]
+    //-     .col-12 
+    //-       figure.desktop(data-aos="fade-right")
+    //-         img(src='@/assets/curso/temas/tema4/24.svg' alt='La figura 5 indica un ejemplo de dominio de la norma ISO/IEC 27001:2013, mediante el dominio, los objetivos de control y los controles aplicados en dicha norma.')
+    //-         figcaption Nota: ISO/IEC 27001:2013 – Anexo A
+    //-     .row.justify-content-center
+    //-       .col-12 
+    //-         figure.movil(data-aos="fade-right")
+    //-           img(src='@/assets/curso/temas/tema4/25.svg' alt='La figura 5 indica un ejemplo de dominio de la norma ISO/IEC 27001:2013, mediante el dominio, los objetivos de control y los controles aplicados en dicha norma.')
+    //-           figcaption Nota: ISO/IEC 27001:2013 – Anexo A
+
     .row.justify-content-center.mt-5
-      .col-lg-8.col-12 
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 5.
-          span #[i Ejemplo de dominio de la norma ISO/IEC 27001:2013]
-        .col-12 
-          figure.desktop(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/24.svg' alt='La figura 5 indica un ejemplo de dominio de la norma ISO/IEC 27001:2013, mediante el dominio, los objetivos de control y los controles aplicados en dicha norma.')
-            figcaption Nota: ISO/IEC 27001:2013 – Anexo A
-        .row.justify-content-center
-          .col-12 
-            figure.movil(data-aos="fade-right")
-              img(src='@/assets/curso/temas/tema4/25.svg' alt='La figura 5 indica un ejemplo de dominio de la norma ISO/IEC 27001:2013, mediante el dominio, los objetivos de control y los controles aplicados en dicha norma.')
-              figcaption Nota: ISO/IEC 27001:2013 – Anexo A
+      .col-lg-10.col-12
+        .cajon.color-primario.p-4.mb-4(style="background-image: #E1F5D6")
+          p Estos objetivos de control en profundidad pueden ser consultados en la Norma ISO/IEC 27001:2013 -  Anexo A para identificar aspectos mas en profundidad sobre los controles de seguridad.
+
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_4_3 4.3 Estrategia de implementación de controles
@@ -539,12 +547,12 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Ejemplo de documento SoA
             p A continuación, se presente un ejemplo de documento SoA, el cual muestra un ejercicio de establecimiento de controles, aplicación, justificación, responsable, así como el plan de acción  para implementarlo.
-            .col-lg-6
-                a.anexo.mb-4(:href="obtenerLink('/downloads/34.svg')" target="_blank")
+            .col-lg-12
+                a.anexo.mb-4(href="https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/ASIS02.pdf" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
-                    p Descargar. Figura 3, Dominios de seguridad de la norma ISO/IEC 27001:2013.
+                    p Figura 3, Dominios de seguridad de la norma ISO/IEC 27001:2013.
         
           .col-md-6
             figure

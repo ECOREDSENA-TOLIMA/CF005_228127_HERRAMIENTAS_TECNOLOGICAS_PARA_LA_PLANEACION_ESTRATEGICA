@@ -78,7 +78,7 @@
                   span 5
                 | Fortalecer los sistemas de gestión y de control de la organización.
 
-    p(data-aos="fade-left") Dinámicas que deberán estar apoyadas por normas y estándares, entre las primeras se resalta la ISO 31000 y la metodología MAGERIT, aunque hay otras metodologías que pueden ser útiles, estas son las más reconocidas y recomendadas en la actualidad, las cuales generalmente nos sugieren etapas o fases para la aplicación y el desarrollo de las mismas.
+    p(data-aos="fade-left") Dinámicas que deberán estar apoyadas por normas y estándares, entre las primeras se resalta la ISO 31000 y la metodología #[i MAGERIT], aunque hay otras metodologías que pueden ser útiles, estas son las más reconocidas y recomendadas en la actualidad, las cuales generalmente nos sugieren etapas o fases para la aplicación y el desarrollo de las mismas.
     p(data-aos="fade-left") Las etapas para la gestión de riesgo permitirán adelantar las actividades y acciones de manera organizada y sistemática, a continuación, se describen las 4 principales:
 
     .row.justify-content-center
@@ -127,21 +127,21 @@
       LineaTiempoC.color-acento-botones(text-small)
         .row.col-ipad(titulo="1").p-4.justify-content-center
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 Matriz de riesgo
-            p Este instrumento es útil para identificar, evaluar y clasificar en orden prioritario las amenazas o posibles eventos negativos, para abordarlas en función de su importancia, este instrumento se desarrolla en una tabla en la que se califica con números la probabilidad de que un riesgo se concrete. Permitiendo identificar las posibles causas, para poder establecer medidas de prevención.
-        
-          .col-md-4
-            figure
-              img(src='@/assets/curso/temas/tema2/9.svg', alt='Imagen decorativa')
-
-        .row.col-ipad(titulo="2").p-4.justify-content-center
-          .col-md-6.mb-4.mb-md-0.p-4
             h4 Lista de chequeo
             p Son instrumentos para la recopilación de información en la auditoría interna, los cuales permiten reconocer puntos críticos y verificar los controles de prevención y mitigación se estén cumpliendo.
         
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/10.svg', alt='Imagen decorativa')
+        
+        .row.col-ipad(titulo="2").p-4.justify-content-center
+          .col-md-6.mb-4.mb-md-0.p-4
+            h4 Matriz de riesgo
+            p Este instrumento es útil para identificar, evaluar y clasificar en orden prioritario las amenazas o posibles eventos negativos, para abordarlas en función de su importancia, este instrumento se desarrolla en una tabla en la que se califica con números la probabilidad de que un riesgo se concrete. Permitiendo identificar las posibles causas, para poder establecer medidas de prevención.
+        
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/tema2/9.svg', alt='Imagen decorativa')
 
         .row.col-ipad(titulo="3").p-4.justify-content-center
           .col-md-6.mb-4.mb-md-0.p-4
@@ -153,7 +153,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/11.svg', alt='Imagen decorativa')
 
-        .row.col-ipad(titulo="1").p-4.justify-content-center
+        .row.col-ipad(titulo="4").p-4.justify-content-center
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Registro de riesgos
             p Instrumento que permite el registro de amenazas, con el fin de planificar los esfuerzos y los recursos a emplear para su tratamiento.
@@ -162,9 +162,9 @@
             figure
               img(src='@/assets/curso/temas/tema2/12.svg', alt='Imagen decorativa')
 
-        .row.col-ipad(titulo="1").p-4.justify-content-center
+        .row.col-ipad(titulo="5").p-4.justify-content-center
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 Diagrama de Ishikawa:
+            h4 Diagrama de #[i Ishikawa]:
             p Aborda todos los factores involucrados en un proceso productivo: material, método, maquinaria, medio ambiente y recursos humanos.
             p La idea es, mediante una lluvia de ideas o sesiones de creatividad, comprender las causas que originan los problemas y así eliminarlos.
             a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Diagrama_ishikawa.pdf')" target="_blank")
@@ -175,7 +175,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/13.svg', alt='Imagen decorativa')
 
-        .row.col-ipad(titulo="1").p-4.justify-content-center
+        .row.col-ipad(titulo="6").p-4.justify-content-center
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Planillas de datos como hojas de cálculo:
             p Este tipo de recursos permite consolidar la mayor parte de las herramientas antes descritas. Una debilidad, es que el ingreso de información se realiza de forma manual, lo que facilita el registro errado de datos, generando inconsistencias en la información.
@@ -294,7 +294,7 @@
           img(src='@/assets/curso/temas/tema2/19.svg' alt='AvatarTop')
           .tarjeta.color-primario(style="width:100%; background-color: #E1F5D6")
             .text.p-4
-              h2.text-center(style="color: #12263F") Operativo
+              h2.text-center(style="color: #12263F") Táctico
               ul.lista-ul
                 li(style="color: #12263F") 
                   i.fas.fa-angle-right(style="color: #12263F")
@@ -310,7 +310,7 @@
           img(src='@/assets/curso/temas/tema2/20.svg' alt='AvatarTop')
           .tarjeta.color-primario(style="width:100%; background-color: #E1F5D6")
             .text(style="color: #12263F").p-4
-              h2.text-center(style="color: #12263F") Operativo
+              h2.text-center(style="color: #12263F") Estratégico
               ul.lista-ul
                 li(style="color: #12263F") 
                   i.fas.fa-angle-right(style="color: #12263F")

@@ -105,7 +105,7 @@
     .row.justify-content-center.mt-5
       .col-lg-10.col-12
         .cajon.color-primario.p-4.mb-4(style="background-image: #E1F5D6")
-          p El riesgo es entendido como la probabilidad de que se genere un incidente de seguridad, mediante la materialización de una amenaza que aprovecho una vulnerabilidad para materializarse.
+          p El riesgo es entendido como la probabilidad de que se genere un incidente de seguridad, mediante la materialización de una amenaza que aprovechó una vulnerabilidad para materializarse.
 
     p.mt-5(data-aos="fade-left") Ahora bien, el riesgo siempre existe, y generalmente prevalecen en el tiempo, por ende, es necesario conocer los aspectos fundamentales para su tratamiento, lo que permitirá reducir la probabilidad de ocurrencia o reducir el impacto que puede tener para una organización, de acuerdo a lo anterior, se puede decir que existe un riesgo antes de la gestión y uno diferente después de la gestión realizada, lo que permite categorizar el riesgo de la siguiente manera:
 
@@ -168,20 +168,22 @@
       LineaTiempoC.color-acento-botones(text-small)
         .row.col-ipad(titulo="1")
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 Estar integrada en los procesos de una organización
-            p No debe ser entendida como una actividad aislada, sino como parte de las actividades y procesos principales de una organización.
-        
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema1/10.jpg', alt='Imagen decorativa')
-        .row.col-ipad(titulo="2")
-          .col-md-6.mb-4.mb-md-0.p-4
             h4 Crear y proteger el valor
             p Contribuye a la consecución de objetivos, así como la mejora de ciertos aspectos tales como la seguridad y salud laboral, cumplimiento de los requisitos legales, protección ambiental, etc.
         
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/11.jpg', alt='Imagen decorativa')
+        
+        .row.col-ipad(titulo="2")
+          .col-md-6.mb-4.mb-md-0.p-4
+            h4 Estar integrada en los procesos de una organización
+            p No debe ser entendida como una actividad aislada, sino como parte de las actividades y procesos principales de una organización.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/10.jpg', alt='Imagen decorativa')
+        
         .row.col-ipad(titulo="3")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Formar parte de la toma de decisiones
@@ -209,14 +211,14 @@
         .row.col-ipad(titulo="6")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Basarse en la mejor información disponible
-            p Los inputs del proceso de gestión del riesgo están basados en fuentes de información como la propia experiencia, la observación y la opinión de expertos.
+            p Los #[i inputs] del proceso de gestión del riesgo están basados en fuentes de información como la propia experiencia, la observación y la opinión de expertos.
         
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/15.jpg', alt='Imagen decorativa')
         .row.col-ipad(titulo="7")
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 Estar hecha a medida
+            h4 Estar hecha a la medida
             p La gestión del riesgo está alineada con el contexto externo e interno de la organización, y con su perfil de riesgo.
         
           .col-md-6
@@ -233,7 +235,7 @@
         .row.col-ipad(titulo="9")
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Ser transparente e inclusiva
-            p La apropiada y oportuna participación de los grupos de interés (stakeholders) y, en particular, de los responsables a todos los niveles, asegura que la gestión del riesgo permanece relevante y actualizada.
+            p La apropiada y oportuna participación de los grupos de interés #[i (stakeholders)] y, en particular, de los responsables a todos los niveles, asegura que la gestión del riesgo permanece relevante y actualizada.
         
           .col-md-6
             figure
@@ -248,7 +250,7 @@
               img(src='@/assets/curso/temas/tema1/19.jpg', alt='Imagen decorativa')
         .row.col-ipad(titulo="11")
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 [AD] AdministFacilitar la mejora continua de la organizaciónración
+            h4 Facilitar la mejora continua de la organizaciónración
             p Las organizaciones deberían desarrollar e implementar estrategias para mejorar continuamente, tanto en la gestión del riesgo como en cualquier otro aspecto de la organización.
         
           .col-md-6
@@ -262,7 +264,7 @@
       .tarjeta.color-primario--borde.p-4(titulo="ISO:27001")
         h4 ISO:27001 Tecnología de la información
         p Técnicas de seguridad, sistemas de gestión de la seguridad de la información.
-        p Requisitos: esta norma brinda los lineamientos para el establecimiento de un Sistema de Gestión de la Seguridad de la Información SGSI en una organización.
+        p Requisitos: esta norma brinda los lineamientos para el establecimiento de un Sistema de Gestión de la Seguridad de la Información (SGSI) en una organización.
         p Un sistema de gestión de la seguridad de la información se entiende como un sistema compuesto por una serie de procesos para implementar, mantener y mejorar de forma continua la seguridad de la información tomando como base los riesgos que afectan la seguridad en una organización (ICONTEC, 2018).
 
       .tarjeta.color-primario--borde.p-4(titulo="ISO:9001")
@@ -273,7 +275,7 @@
 
       .tarjeta.color-primario--borde.p-4(titulo="ISO:55002")
         h4 ISO:55002 Gestión de activos,  Sistemas de gestión
-        p Esta norma da continuidad con la norma ISO 55000 con la cual se contempla el concepto, terminología y entorno de cuidado de los activos, con la norma ISO 55001 que indica los requerimientos para el Sistema de Gestión de Activos- SGA, La ISO 55002 comparte la interpretación y guía de implementación de las normas en las organizaciones (UpKeep, 2023).
+        p Esta norma da continuidad con la norma ISO 55000 con la cual se contempla el concepto, terminología y entorno de cuidado de los activos, con la norma ISO 55001 que indica los requerimientos para el Sistema de Gestión de Activos- SGA, La ISO 55002 comparte la interpretación y guía de implementación de las normas en las organizaciones #[i (UpKeep], 2023).
         p La norma ISO 55002, resalta como establecer un programa de gestión de riesgos aplicado a los activos, agregándole un plus al programa integrado de gestión de activos, dando a la alta dirección una mejor comprensión de la relación entre la gestión de activos y la gestión de riesgos.
 
       .tarjeta.color-primario--borde.p-4(titulo="ISO:19011")
