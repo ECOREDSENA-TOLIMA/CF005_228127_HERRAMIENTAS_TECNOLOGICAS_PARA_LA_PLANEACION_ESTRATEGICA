@@ -386,7 +386,7 @@
             span #[i Eficacia y madurez de las salvaguardas]
         .tabla-a.color-primario.mb-5
           table
-            caption Nota: con base en MAGERIT– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información.
+            caption Nota: con base en #[i MAGERIT]– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información.
             thead(style="background-color: #E1F5D6")
               tr
                 th Factor
@@ -414,7 +414,7 @@
                 td L4
                 td Gestionado y medible
               tr
-                td 100%
+                td 100 %
                 td L5
                 td Optimizado
 
@@ -450,7 +450,7 @@
           .col-12.movil
             .row
               .col-lg-6
-                a.anexo.mb-4(:href="obtenerLink('/downloads/Figura 3.pdf')" target="_blank")
+                a.anexo.mb-4(:href="obtenerLink('/downloads/Dominios_seguridad_norma_ISOIEC_270012013.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto

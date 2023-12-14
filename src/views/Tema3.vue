@@ -37,7 +37,7 @@
           .col-6
             img(src='@/assets/curso/temas/tema3/3.svg' alt='AvatarTop')
         h2.text-center Seguimiento en medios
-        p Realizar el seguimiento a través de medios como las redes sociales y páginas web, permite reconocer la importancia en el medio de la organización.
+        p Realizar el seguimiento a través de medios como las redes sociales y páginas Web, permite reconocer la importancia en el medio de la organización.
       .tarjeta.color-secundario.p-4.col-ipad(style="background-color: #FDFDE3")
         .row.justify-content-center.mb-3
           .col-6
