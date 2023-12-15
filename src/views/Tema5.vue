@@ -78,6 +78,16 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema5/5.jpg', alt='Imagen decorativa')
+
+        .row
+          .col-md-6.mb-4.mb-md-0.p-4
+            h4 Auditoria #[I Web]
+            p Busca identificar el nivel de seguridad de sitios y portales web de la organización.
+
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema5/5.jpg', alt='Imagen decorativa')
         .row
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Auditoria forense
