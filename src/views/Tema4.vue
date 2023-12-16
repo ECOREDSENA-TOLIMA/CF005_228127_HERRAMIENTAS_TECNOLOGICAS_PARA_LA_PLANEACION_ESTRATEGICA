@@ -552,7 +552,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
-                    p Figura 3, Dominios de seguridad de la norma ISO/IEC 27001:2013.
+                    p Dominios de seguridad de la norma ISO/IEC 27001:2013.
         
           .col-md-6
             figure
