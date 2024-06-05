@@ -270,7 +270,7 @@
       span.titulo-herramientas.d-none.d-sm-none.d-md-inline-flex Como se mide la seguridad en una organización
       div.titulo-herramientas.d-block.d-md-none Como se mide la seguridad en una organización
 
-    p(data-aos="fade-left")  Uno de los objetivos de las estrategias de seguridad es garantizar los pilares de la seguridad de la información a partir de la implementación estrategias, acciones y controles, pero como se  indicó anteriormente, estos deben poder medirse para conocer el grado de eficiencia, es aquí donde es necesario hacer uso de las métricas las cuales permiten medir el cumplimiento de los controles propuestos e implementados, estas métricas permitirán identificar el nivel de apropiación en los 3 niveles de decisión de una organización como son: Operativo, Táctico y Estratégico como se puede observar a continuación:
+    p(data-aos="fade-left")  Uno de los objetivos de las estrategias de seguridad es garantizar los pilares de la seguridad de la información a partir de la implementación estrategias, acciones y controles, pero como se  indicó anteriormente, estos deben poder medirse para conocer el grado de eficiencia, es aquí donde es necesario hacer uso de las métricas las cuales permiten medir el cumplimiento de los controles propuestos e implementados, estas métricas permitirán identificar el nivel de apropiación en los 3 niveles de decisión de una organización como son: Operativo, Táctico y Estratégico como se puede representa a continuación:
 
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0

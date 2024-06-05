@@ -182,7 +182,7 @@
           span #[i Elementos de análisis del riesgo residual]
         .col-12 
           figure.desktop(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/8.svg' alt='En la figura se representan los activos expuestos a amenazas, que causan degradación residual, con probabilidad residual, igualmente los activos con su valor tienen impacto residual y riesgo residual. Salvaguardar degradación y probabilidad.')
+            img(src='@/assets/curso/temas/tema4/8.png' alt='En la figura se representan los activos expuestos a amenazas, que causan degradación residual, con probabilidad residual, igualmente los activos con su valor tienen impacto residual y riesgo residual. Salvaguardar degradación y probabilidad.')
             figcaption Nota: con base en #[i MAGERIT]– versión 3.0 Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información
         .row.justify-content-center
           .col-12 

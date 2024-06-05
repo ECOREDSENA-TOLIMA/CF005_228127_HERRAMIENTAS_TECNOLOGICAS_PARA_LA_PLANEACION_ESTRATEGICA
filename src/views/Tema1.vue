@@ -84,7 +84,7 @@
             p Son aquellas amenazas generadas a partir de la debilidad o errores en programas, por ejemplo: #[i bugs], desactualización, malas prácticas, entre otros.
           .tarjeta.color-acento-botones.p-3(x="77%" y="15%" numero="")
             .h5.mb-2 Causadas por personas de forma deliberada
-            p A diferencia de la vista anteriormente, estas amenazas son causadas con intención o para obtener un beneficio, bien sea causando daños o no.
+            p A diferencia de la anterior, estas amenazas son causadas con intención o para obtener un beneficio, bien sea causando daños o no.
           .tarjeta.color-acento-botones.p-3(x="23.2%" y="54.5%" numero="")
             .h5.mb-2 Del entorno
             p Son amenazas generadas a partir de desastres industriales, como por ejemplo sobrecarga eléctrica, infección, contaminación.
