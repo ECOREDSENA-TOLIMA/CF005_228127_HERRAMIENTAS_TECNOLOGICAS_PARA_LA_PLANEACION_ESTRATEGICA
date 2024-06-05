@@ -157,7 +157,7 @@
                 .tarjeta.tarjeta--azul(style="background-color: #E1F5D6")
                   .p-4
                     h2 No se justifica
-                    p cuando la salvaguarda es adecuada, pero desproporcionada al riesgo que se desea proteger.
+                    p Cuando la salvaguarda es adecuada, pero desproporcionada al riesgo que se desea proteger.
 
     p(data-aos="fade-left") El resultado de estas consideraciones se reflejará en un documento denominado #[b “declaración de aplicabilidad”] que corresponde a la determinación de las salvaguardas que serán implementadas, como se aplicarán, y cuales, no justificando la decisión.
     p(data-aos="fade-left") #[b Efecto de las salvaguardas:] una vez determinadas las salvaguardas, estas deberán ser evaluadas de acuerdo a su impacto sobre el riesgo, así:
@@ -171,7 +171,7 @@
               | #[b Reduciendo la probabilidad de las amenazas.] También denominadas salvaguardas preventivas. Las cuales deben de impedir que una amenaza se materialice.
             li
               i.fas.fa-angle-right
-              | #[b  Limitando el daño causado.] Salvaguardas que reducen la posible degradación del activo, mientras que otras permiten detectar 
+              | #[b  Limitando el daño causado.] Salvaguardas que reducen la posible degradación del activo, mientras que otras permiten detectar inmediatamente el ataque para frenar que la degradación avance.
 
     p(data-aos="fade-left") La lógica de su aplicación, se puede apreciar en la siguiente figura, en donde se integran las salvaguardas al procedimiento de gestión del riesgo.
 
@@ -202,7 +202,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [PR] Prevención
             p Salvaguardas preventivas que reducen las oportunidades de que un incidente ocurra. Si la salvaguarda falla y el incidente llega a ocurrir, los daños son los mismos.
-            p #[b Ejemplos]: autorización previa de los usuarios, gestión de privilegios, planificación de capacidades, metodología segura de desarrollo de software, pruebas en preproducción, segregación de tareas.
+            p #[b Ejemplos]: autorización previa de los usuarios, gestión de privilegios, planificación de capacidades, metodología segura de desarrollo de #[i software], pruebas en preproducción, segregación de tareas.
         
           .col-md-6
             figure
@@ -212,7 +212,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [DR] Disuasión
             p Salvaguarda disuasoria, tiene efecto sobre los atacantes, reduciendo la intención de que estos se atrevan a atacar un activo.
-            p Ejemplos: vallas elevadas, guardias de seguridad, avisos sobre la persecución del delito o persecución del delincuente.
+            p #[b Ejemplos]: vallas elevadas, guardias de seguridad, avisos sobre la persecución del delito o persecución del delincuente.
         
           .col-md-6
             figure
@@ -222,7 +222,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [EL] Eliminación
             p Son salvaguardas que eliminan un incidente, impidiendo que éste tenga lugar. Actúan antes de que el incidente se haya producido. No reducen los daños en caso de que la salvaguarda no sea perfecta y el incidente llegue a ocurrir.
-            p Ejemplos: eliminación de cuentas estándar, de cuentas sin contraseña, en general, todo lo que tenga que ver con la fortificación o bastionado, cifrado de la información.
+            p #[b Ejemplos]: eliminación de cuentas estándar, de cuentas sin contraseña, en general, todo lo que tenga que ver con la fortificación o bastionado, cifrado de la información.
         
           .col-md-6
             figure
@@ -231,7 +231,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [IM] Minimización del impacto / limitación del impacto
             p Salvaguarda que minimiza o limita el impacto acotando las consecuencias de un incidente.
-            p Ejemplos: desconexión de redes o equipos en caso de ataque, detención de servicios en caso de ataque, seguros de cobertura, cumplimiento de la legislación vigente.
+            p #[b Ejemplos]: desconexión de redes o equipos en caso de ataque, detención de servicios en caso de ataque, seguros de cobertura, cumplimiento de la legislación vigente.
         
           .col-md-6
             figure
@@ -240,7 +240,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [CR] Corrección
             p Salvaguarda que actúa después de un incidente, ejerciendo una reparación al activo. 
-            p Ejemplos: gestión de incidentes, líneas de comunicación alternativas, fuentes de alimentación redundantes, entre otros.
+            p #[b Ejemplos]: gestión de incidentes, líneas de comunicación alternativas, fuentes de alimentación redundantes, entre otros.
         
           .col-md-6
             figure
@@ -249,7 +249,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [RC] Recuperación
             p Salvaguarda que ofrece la recuperación de un activo que ha sufrido una alteración, regresándolo al estado útil y viable.
-            p Ejemplos: copias de seguridad #[i (back-up)].
+            p #[b Ejemplos]: copias de seguridad #[i (backup)].
         
           .col-md-6
             figure
@@ -258,7 +258,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [MN] Monitorización
             p Salvaguardas enfocadas en la vigilancia y monitoreo de activos para identificar posibles cambios o alteraciones en el normal comportamiento de un activo de información.
-            p Ejemplos: registros de actividad, registro de descargas de #[i web].
+            p #[b Ejemplos]: registros de actividad, registro de descargas de #[i web].
         
           .col-md-6
             figure
@@ -267,7 +267,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [DC] Detección
             p Salvaguarda que detecta un ataque, determinando lo que está sucediendo. No necesariamente debe detener la acción, pero si permite establecer las medidas mínimas necesarias para su protección.
-            p Ejemplos: antivirus, IDS, detectores de incendio, etc.
+            p #[b Ejemplos]: antivirus, IDS, detectores de incendio, etc.
         
           .col-md-6
             figure
@@ -276,7 +276,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [AW] Concienciación
             p Actividades relacionadas con la transferencia del conocimiento para la seguridad de todos los actores involucrados en la organización y que dependan de los activos de información.
-            p Ejemplos: cursos de concienciación, cursos de formación.
+            p #[b Ejemplos]: cursos de concienciación, cursos de formación.
         
           .col-md-6
             figure
@@ -285,7 +285,7 @@
           .col-md-6.mb-4.mb-md-0.p-4
             h4 [AD] Administración
             p Salvaguardas relacionadas con los componentes de seguridad del sistema.
-            p Ejemplos: inventario de activos, análisis de riesgos, plan de continuidad.
+            p #[b Ejemplos]: inventario de activos, análisis de riesgos, plan de continuidad.
         
           .col-md-6
             figure
@@ -394,28 +394,28 @@
                 th Significados
             tbody
               tr
-                td 0 %
-                td L0
+                td.text-center 0 %
+                td.text-center L0
                 td Inexistente
               tr
-                td 
-                td L1
+                td.text-center 0 %
+                td.text-center L1
                 td Inicial / ad hoc
               tr
-                td 
-                td L2
+                td.text-center 0 %
+                td.text-center L2
                 td Reproducible intuitivo
               tr
-                td 
-                td L3
+                td.text-center 0 %
+                td.text-center L3
                 td Proceso definido
               tr
-                td 
-                td L4
+                td.text-center 0 %
+                td.text-center L4
                 td Gestionado y medible
               tr
-                td 100 %
-                td L5
+                td.text-center 100 %
+                td.text-center L5
                 td Optimizado
 
     .row.justify-content-center 
@@ -456,7 +456,7 @@
                   .anexo__texto
                     p Descargar. Figura 3, Dominios de seguridad de la norma ISO/IEC 27001:2013.
 
-    p.mt-5(data-aos="fade-left") Estas categorías se enumeran desde la A5 hasta la A18, que corresponden a 14 dominios que representan los niveles de seguridad como son: operativos, lógicos, físicos y legales, y que estos también se pueden identificar desde el ámbito estratégico como operativo, como se puede observar en la siguiente figura:
+    p.mt-5(data-aos="fade-left") Estas categorías se enumeran desde la A5 hasta la A18, que corresponden a 14 dominios que representan los niveles de seguridad como son: operativos, lógicos, físicos y legales, y que estos también se pueden identificar desde el ámbito estratégico como operativo, como se representa en la siguiente figura:
 
     .row.justify-content-center.mt-5
       .col-lg-8.col-12 
@@ -480,7 +480,7 @@
       div.titulo-herramientas.d-block.d-md-none Objetivos de control
 
     p(data-aos="fade-left") Cada uno de los dominios de seguridad que nos presenta la norma ISO/IEC 27001:2013, se encuentra dividido en categorías denominadas objetivos de control. Estos objetivos como su nombre lo indica, representa aquello que se busca obtener con la aplicación de los controles de seguridad, de tal manera que, en un ejercicio de aplicación, su adopción corresponde a las necesidades y problemas que la organización quiere abordar. Se presentan como las propuestas y directrices para la implementación de una estrategia de seguridad, que puede ir desde el endurecimiento de la infraestructura, hasta la consolidación de un sistema de gestión de la seguridad SGSI, y con los cuales se busca garantizar los objetivos de seguridad de la organización.
-    p(data-aos="fade-left") En este orden de ideas, la estructura de los objetivos de control se presenta en la figura 5, plasmando una idea principal de manera general, acompañada de una descripción de la utilidad del mismo.
+    p(data-aos="fade-left") En este orden de ideas, la estructura de los objetivos de control se presenta en la figura 4, plasmando una idea principal de manera general, acompañada de una descripción de la utilidad del mismo.
     
     //- .row.justify-content-center.mt-5
     //-   .col-lg-8.col-12 
@@ -500,7 +500,7 @@
     .row.justify-content-center.mt-5
       .col-lg-10.col-12
         .cajon.color-primario.p-4.mb-4(style="background-image: #E1F5D6")
-          p Estos objetivos de control en profundidad pueden ser consultados en la Norma ISO/IEC 27001:2013 -  Anexo A para identificar aspectos mas en profundidad sobre los controles de seguridad.
+          p Estos objetivos de control en profundidad pueden ser consultados en la Norma ISO/IEC 27001:2013 -  Anexo A para identificar aspectos más en profundidad sobre los controles de seguridad.
 
     separador 
     .titulo-segundo.color-acento-contenido
@@ -552,7 +552,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
-                    p Dominios de seguridad de la norma ISO/IEC 27001:2013.
+                    p Ejemplo de documento SOA Minsalud.
         
           .col-md-6
             figure

@@ -72,7 +72,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Auditoria de redes
-            p Como su nombre lo indica, permite evaluar la seguridad en las infraestructuras de redes conectadas como inalámbricas, incluye la evaluación de dispositivos de gestión y aplicaciones de red #[i (firewall, router, switch, utm, acces point,]etc).
+            p Como su nombre lo indica, permite evaluar la seguridad en las infraestructuras de redes conectadas como inalámbricas, incluye la evaluación de dispositivos de gestión y aplicaciones de red #[i (firewall, router, switch, UTM, access point,]etc).
 
         
           .col-md-6

@@ -298,13 +298,13 @@
               ul.lista-ul
                 li(style="color: #12263F") 
                   i.fas.fa-angle-right(style="color: #12263F")
-                  | Integridad
+                  | Servicios
                 li(style="color: #12263F") 
                   i.fas.fa-angle-right(style="color: #12263F")
-                  | Disponibilidad
+                  | Aplicaciones
                 li(style="color: #12263F") 
                   i.fas.fa-angle-right(style="color: #12263F")
-                  | Confidencialidad
+                  | Perímetro
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/20.svg' alt='AvatarTop')
@@ -314,13 +314,13 @@
               ul.lista-ul
                 li(style="color: #12263F") 
                   i.fas.fa-angle-right(style="color: #12263F")
-                  | Integridad
+                  | Administración de riesgos
                 li(style="color: #12263F") 
                   i.fas.fa-angle-right(style="color: #12263F")
-                  | Disponibilidad
+                  | Objetivo de negocio
                 li(style="color: #12263F") 
                   i.fas.fa-angle-right(style="color: #12263F")
-                  | Confidencialidad
+                  | Cumplimiento
     p(data-aos="fade-left") Los objetivos de seguridad de la organización deben de alinearse con los objetivos de negocio de la organización, de tal manera que se identifiquen los procesos que se deben de cubrir, y a partir de allí establecer los controles necesarios.
     p(data-aos="fade-left") A continuación, se van a revisar de manera detallada algunos ejemplos de métricas de seguridad que pueden ser utilizados para cada uno de los niveles:
 

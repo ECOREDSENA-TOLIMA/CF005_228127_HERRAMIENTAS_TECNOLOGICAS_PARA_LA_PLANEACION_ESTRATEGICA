@@ -7,7 +7,7 @@
         span 3
       h1 Identificación de riesgos
     
-    p(data-aos="fade-left") Para el ejercicio de identificar y reconocer los riesgos que pueden afectar a una organización, es necesario aplicar las metodologías que han sido puestas a disposición para este fin, es aquí, donde se trae como referente a  #[i MAGERIT], la cual es una metodología para la gestión del riesgo, que está basada en la norma ISO 31000, precisamente en su apartado 4.4 denominado “Implementar la gestión del riesgo”, consolida el marco para la gestión (ICONTEC, 2018), como se observa en la siguiente figura.
+    p(data-aos="fade-left") Para el ejercicio de identificar y reconocer los riesgos que pueden afectar a una organización, es necesario aplicar las metodologías que han sido puestas a disposición para este fin, es aquí, donde se trae como referente a  #[i MAGERIT], la cual es una metodología para la gestión del riesgo, que está basada en la norma ISO 31000, precisamente en su apartado 4.4 denominado “Implementar la gestión del riesgo”, consolida el marco para la gestión (ICONTEC, 2018), como se representa en la siguiente figura.
 
     .row.justify-content-center
       .col-lg-10.col-12 
@@ -325,7 +325,7 @@
               td MB
               td 1/100
               td Muy poco frecuente
-              td siglos
+              td Siglos
 
 
     separador 

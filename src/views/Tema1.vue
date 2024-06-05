@@ -49,7 +49,7 @@
         h4 Vulnerabilidad
         br
         br
-        p.mb-0 Una debilidad o fallo en un sistema de información que pone en riesgo la seguridad de la información pudiendo permitir que un atacante pueda comprometer la integridad, disponibilidad o confidencialidad de la misma.
+        p.mb-0 Una debilidad o fallo en un sistema de información que pone en riesgo la seguridad de la información, pudiendo permitir que un atacante pueda comprometer la integridad, disponibilidad o confidencialidad de la misma.
           br
           br
 
@@ -81,10 +81,10 @@
             p Comprende todas las amenazas que son causadas a partir de eventos generados por la naturaleza y causados de forma natural, por ejemplo: sismos, huracanes, inundaciones, tormentas, entre otros.
           .tarjeta.color-acento-botones.p-3(x="50%" y="71%" numero="")
             .h5.mb-2 Defectos de aplicaciones
-            p Son aquellas amenazas generadas a partir de la debilidad o errores en programas, por ejemplo: bugs, desactualización, malas prácticas, entre otros.
+            p Son aquellas amenazas generadas a partir de la debilidad o errores en programas, por ejemplo: #[i bugs], desactualización, malas prácticas, entre otros.
           .tarjeta.color-acento-botones.p-3(x="77%" y="15%" numero="")
             .h5.mb-2 Causadas por personas de forma deliberada
-            p A diferencia de la anterior, estas amenazas son causadas con intención o para obtener un beneficio, bien sea causando daños o no.
+            p A diferencia de la vista anteriormente, estas amenazas son causadas con intención o para obtener un beneficio, bien sea causando daños o no.
           .tarjeta.color-acento-botones.p-3(x="23.2%" y="54.5%" numero="")
             .h5.mb-2 Del entorno
             p Son amenazas generadas a partir de desastres industriales, como por ejemplo sobrecarga eléctrica, infección, contaminación.
